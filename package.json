@@ -1,0 +1,22 @@
+{
+  "name": "node-jumanpp",
+  "version": "0.1.0",
+  "author": {
+    "name": "mochizuki-ichiro",
+    "email": "mochizukiichiro0@gmail.com"
+  },
+  "main": "node-jumanpp",
+  "dependencies": {
+    "shell-quote": "^1.6.1"
+  },
+  "readmeFilename": "README.md",
+  "description": "Node.js wrapper for JUMAN++, japanese RNN based morphological analyzer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mochizuki-ichiro/node-jumanpp"
+  },
+  "bugs": {
+    "mail": "mochizukiichiro0@gmail.com",
+    "url": "http://github.com/mochizuki-ichiro/node-jumanpp"
+  }
+}
