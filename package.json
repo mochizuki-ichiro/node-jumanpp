@@ -1,11 +1,11 @@
 {
   "name": "node-jumanpp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "mochizuki-ichiro",
     "email": "mochizukiichiro0@gmail.com"
   },
-  "main": "node-jumanpp",
+  "main": "jumanpp",
   "dependencies": {
     "shell-quote": "^1.6.1"
   },
